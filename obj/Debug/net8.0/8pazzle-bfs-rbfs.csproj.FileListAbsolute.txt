@@ -1,0 +1,14 @@
+C:\Users\rusla\source\repos\algorithms\8pazzle-bfs-rbfs\bin\Debug\net8.0\8pazzle-bfs-rbfs.exe
+C:\Users\rusla\source\repos\algorithms\8pazzle-bfs-rbfs\bin\Debug\net8.0\8pazzle-bfs-rbfs.deps.json
+C:\Users\rusla\source\repos\algorithms\8pazzle-bfs-rbfs\bin\Debug\net8.0\8pazzle-bfs-rbfs.runtimeconfig.json
+C:\Users\rusla\source\repos\algorithms\8pazzle-bfs-rbfs\bin\Debug\net8.0\8pazzle-bfs-rbfs.dll
+C:\Users\rusla\source\repos\algorithms\8pazzle-bfs-rbfs\bin\Debug\net8.0\8pazzle-bfs-rbfs.pdb
+C:\Users\rusla\source\repos\algorithms\8pazzle-bfs-rbfs\obj\Debug\net8.0\8pazzle-bfs-rbfs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rusla\source\repos\algorithms\8pazzle-bfs-rbfs\obj\Debug\net8.0\8pazzle-bfs-rbfs.AssemblyInfoInputs.cache
+C:\Users\rusla\source\repos\algorithms\8pazzle-bfs-rbfs\obj\Debug\net8.0\8pazzle-bfs-rbfs.AssemblyInfo.cs
+C:\Users\rusla\source\repos\algorithms\8pazzle-bfs-rbfs\obj\Debug\net8.0\8pazzle-bfs-rbfs.csproj.CoreCompileInputs.cache
+C:\Users\rusla\source\repos\algorithms\8pazzle-bfs-rbfs\obj\Debug\net8.0\8pazzle-bfs-rbfs.dll
+C:\Users\rusla\source\repos\algorithms\8pazzle-bfs-rbfs\obj\Debug\net8.0\refint\8pazzle-bfs-rbfs.dll
+C:\Users\rusla\source\repos\algorithms\8pazzle-bfs-rbfs\obj\Debug\net8.0\8pazzle-bfs-rbfs.pdb
+C:\Users\rusla\source\repos\algorithms\8pazzle-bfs-rbfs\obj\Debug\net8.0\8pazzle-bfs-rbfs.genruntimeconfig.cache
+C:\Users\rusla\source\repos\algorithms\8pazzle-bfs-rbfs\obj\Debug\net8.0\ref\8pazzle-bfs-rbfs.dll

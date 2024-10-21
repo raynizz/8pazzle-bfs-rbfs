@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rusla\\source\\repos\\algorithms\\8pazzle-bfs-rbfs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B33E172-FA17-486D-91CC-9FDB4EAF4C20}|8pazzle-bfs-rbfs.csproj|c:\\users\\rusla\\source\\repos\\algorithms\\8pazzle-bfs-rbfs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B33E172-FA17-486D-91CC-9FDB4EAF4C20}|8pazzle-bfs-rbfs.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B33E172-FA17-486D-91CC-9FDB4EAF4C20}|8pazzle-bfs-rbfs.csproj|C:\\Users\\rusla\\source\\repos\\algorithms\\8pazzle-bfs-rbfs\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B33E172-FA17-486D-91CC-9FDB4EAF4C20}|8pazzle-bfs-rbfs.csproj|solutionrelative:state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B33E172-FA17-486D-91CC-9FDB4EAF4C20}|8pazzle-bfs-rbfs.csproj|C:\\Users\\rusla\\source\\repos\\algorithms\\8pazzle-bfs-rbfs\\solvers\\solver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B33E172-FA17-486D-91CC-9FDB4EAF4C20}|8pazzle-bfs-rbfs.csproj|solutionrelative:solvers\\solver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B33E172-FA17-486D-91CC-9FDB4EAF4C20}|8pazzle-bfs-rbfs.csproj|C:\\Users\\rusla\\source\\repos\\algorithms\\8pazzle-bfs-rbfs\\solvers\\bfssolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B33E172-FA17-486D-91CC-9FDB4EAF4C20}|8pazzle-bfs-rbfs.csproj|solutionrelative:solvers\\bfssolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B33E172-FA17-486D-91CC-9FDB4EAF4C20}|8pazzle-bfs-rbfs.csproj|C:\\Users\\rusla\\source\\repos\\algorithms\\8pazzle-bfs-rbfs\\performancemeasurer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B33E172-FA17-486D-91CC-9FDB4EAF4C20}|8pazzle-bfs-rbfs.csproj|solutionrelative:performancemeasurer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B33E172-FA17-486D-91CC-9FDB4EAF4C20}|8pazzle-bfs-rbfs.csproj|C:\\Users\\rusla\\source\\repos\\algorithms\\8pazzle-bfs-rbfs\\stategenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B33E172-FA17-486D-91CC-9FDB4EAF4C20}|8pazzle-bfs-rbfs.csproj|solutionrelative:stategenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B33E172-FA17-486D-91CC-9FDB4EAF4C20}|8pazzle-bfs-rbfs.csproj|C:\\Users\\rusla\\source\\repos\\algorithms\\8pazzle-bfs-rbfs\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B33E172-FA17-486D-91CC-9FDB4EAF4C20}|8pazzle-bfs-rbfs.csproj|solutionrelative:board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B33E172-FA17-486D-91CC-9FDB4EAF4C20}|8pazzle-bfs-rbfs.csproj|C:\\Users\\rusla\\source\\repos\\algorithms\\8pazzle-bfs-rbfs\\solvers\\rbfssolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B33E172-FA17-486D-91CC-9FDB4EAF4C20}|8pazzle-bfs-rbfs.csproj|solutionrelative:solvers\\rbfssolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 198,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rusla\\source\\repos\\algorithms\\8pazzle-bfs-rbfs\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\rusla\\source\\repos\\algorithms\\8pazzle-bfs-rbfs\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAIwBgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T17:12:39.559Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BfsSolver.cs",
+              "DocumentMoniker": "C:\\Users\\rusla\\source\\repos\\algorithms\\8pazzle-bfs-rbfs\\Solvers\\BfsSolver.cs",
+              "RelativeDocumentMoniker": "Solvers\\BfsSolver.cs",
+              "ToolTip": "C:\\Users\\rusla\\source\\repos\\algorithms\\8pazzle-bfs-rbfs\\Solvers\\BfsSolver.cs",
+              "RelativeToolTip": "Solvers\\BfsSolver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T17:07:25.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PerformanceMeasurer.cs",
+              "DocumentMoniker": "C:\\Users\\rusla\\source\\repos\\algorithms\\8pazzle-bfs-rbfs\\PerformanceMeasurer.cs",
+              "RelativeDocumentMoniker": "PerformanceMeasurer.cs",
+              "ToolTip": "C:\\Users\\rusla\\source\\repos\\algorithms\\8pazzle-bfs-rbfs\\PerformanceMeasurer.cs",
+              "RelativeToolTip": "PerformanceMeasurer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T12:47:12.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RbfsSolver.cs",
+              "DocumentMoniker": "C:\\Users\\rusla\\source\\repos\\algorithms\\8pazzle-bfs-rbfs\\Solvers\\RbfsSolver.cs",
+              "RelativeDocumentMoniker": "Solvers\\RbfsSolver.cs",
+              "ToolTip": "C:\\Users\\rusla\\source\\repos\\algorithms\\8pazzle-bfs-rbfs\\Solvers\\RbfsSolver.cs",
+              "RelativeToolTip": "Solvers\\RbfsSolver.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAAEIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T11:44:35.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Solver.cs",
+              "DocumentMoniker": "C:\\Users\\rusla\\source\\repos\\algorithms\\8pazzle-bfs-rbfs\\Solvers\\Solver.cs",
+              "RelativeDocumentMoniker": "Solvers\\Solver.cs",
+              "ToolTip": "C:\\Users\\rusla\\source\\repos\\algorithms\\8pazzle-bfs-rbfs\\Solvers\\Solver.cs",
+              "RelativeToolTip": "Solvers\\Solver.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAYwHkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T15:29:39.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Board.cs",
+              "DocumentMoniker": "C:\\Users\\rusla\\source\\repos\\algorithms\\8pazzle-bfs-rbfs\\Board.cs",
+              "RelativeDocumentMoniker": "Board.cs",
+              "ToolTip": "C:\\Users\\rusla\\source\\repos\\algorithms\\8pazzle-bfs-rbfs\\Board.cs",
+              "RelativeToolTip": "Board.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAUwF8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T15:25:18.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StateGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\rusla\\source\\repos\\algorithms\\8pazzle-bfs-rbfs\\StateGenerator.cs",
+              "RelativeDocumentMoniker": "StateGenerator.cs",
+              "ToolTip": "C:\\Users\\rusla\\source\\repos\\algorithms\\8pazzle-bfs-rbfs\\StateGenerator.cs",
+              "RelativeToolTip": "StateGenerator.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAwDYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T12:09:32.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "State.cs",
+              "DocumentMoniker": "C:\\Users\\rusla\\source\\repos\\algorithms\\8pazzle-bfs-rbfs\\State.cs",
+              "RelativeDocumentMoniker": "State.cs",
+              "ToolTip": "C:\\Users\\rusla\\source\\repos\\algorithms\\8pazzle-bfs-rbfs\\State.cs",
+              "RelativeToolTip": "State.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T15:28:00.057Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
